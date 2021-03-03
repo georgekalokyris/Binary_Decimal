@@ -1,0 +1,7 @@
+C:\Users\George Kalokiris\source\repos\Decimal_Binary\Decimal_Binary\bin\Debug\Decimal_Binary.exe.config
+C:\Users\George Kalokiris\source\repos\Decimal_Binary\Decimal_Binary\bin\Debug\Decimal_Binary.exe
+C:\Users\George Kalokiris\source\repos\Decimal_Binary\Decimal_Binary\bin\Debug\Decimal_Binary.pdb
+C:\Users\George Kalokiris\source\repos\Decimal_Binary\Decimal_Binary\obj\Debug\Decimal_Binary.csprojAssemblyReference.cache
+C:\Users\George Kalokiris\source\repos\Decimal_Binary\Decimal_Binary\obj\Debug\Decimal_Binary.csproj.CoreCompileInputs.cache
+C:\Users\George Kalokiris\source\repos\Decimal_Binary\Decimal_Binary\obj\Debug\Decimal_Binary.exe
+C:\Users\George Kalokiris\source\repos\Decimal_Binary\Decimal_Binary\obj\Debug\Decimal_Binary.pdb
